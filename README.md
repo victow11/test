@@ -1,3 +1,3 @@
 # Hello World!
 
-Dette forstår jeg ingenting av
+Dette forstår jeg ingenting av :(
